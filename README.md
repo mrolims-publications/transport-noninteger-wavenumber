@@ -1,6 +1,6 @@
 # transport-noninteger-wavenumber
 
-Code repository accompanying the publication entitled "Transport mechanisms associated with non-integer wavenumbers in a nontwist map".
+Code repository accompanying the publication entitled "Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map".
 
 This project contains the code to generate and plot all the data from all figures.
 
@@ -86,9 +86,23 @@ After executing all the programs, simply run all cells in the Jupyter notebook `
 
 ## Citation
 
-If you use this repository or parts of it in your work, please cite:
+If you use this repository or parts of it in your work, please consider citing our research paper:
 
-**Transport mechanisms associated with non-integer wavenumbers in a nontwist map**, *M. Rolim Sales et al.*
+*M. Rolim Sales et al.*, **Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map**, *[Chaos, Solitons and Fractals 200 (2025) 116966](https://doi.org/10.1016/j.chaos.2025.116966)*
+
+```bibtex
+@article{RolimSales2025,
+title = {Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map},
+journal = {Chaos, Solitons \& Fractals},
+volume = {200},
+pages = {116966},
+year = {2025},
+issn = {0960-0779},
+doi = {https://doi.org/10.1016/j.chaos.2025.116966},
+url = {https://www.sciencedirect.com/science/article/pii/S0960077925009798},
+author = {Matheus {Rolim Sales} and Michele Mugnaine and Ana L. R. {de Moraes} and Edson Denis Leonel and Chris G. Antonopoulos and Iberê Luiz Caldas and José Danilo Szezech},
+}
+```
 
 ## Contact
 
