@@ -107,3 +107,13 @@ author = {Matheus {Rolim Sales} and Michele Mugnaine and Ana L. R. {de Moraes} a
 ## Contact
 
 For questions or feedback, feel free to [email me](mailto:rolim.sales.m@gmail.com).
+
+## Acknowledgments
+
+This project was financed, in part, by the São Paulo Research Foundation (FAPESP, Brazil), under process numbers 2023/08698-9 and 2024/09208-8.
+
+## Disclaimer
+
+As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP, Brasil).
+
+The opinions, hypotheses, and conclusions or recommendations expressed in this material are the sole responsibility of the author(s) and do not necessarily reflect the views of the São Paulo Research Foundation (FAPESP, Brazil).
